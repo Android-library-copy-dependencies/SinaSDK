@@ -1,4 +1,4 @@
 # SinaSDK
 已经被投入使用（RHC）
 ## download
-[![](https://jitpack.io/v/Lyon1994/SinaSDK.svg)](https://jitpack.io/#Lyon1994/SinaSDK)
+[![](https://jitpack.io/v/Android-library-copy-dependencies/SinaSDK.svg)](https://jitpack.io/#Android-library-copy-dependencies/SinaSDK)
